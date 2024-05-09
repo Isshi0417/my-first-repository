@@ -1,1 +1,3 @@
-# READ ME#
+# READ ME #
+
+Hello world, I love using git!
