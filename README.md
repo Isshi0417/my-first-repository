@@ -1,3 +1,3 @@
 # READ ME #
 
-Hello world, I love using git!
+Sample README text.
