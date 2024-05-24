@@ -2,4 +2,4 @@
 
 Sample README text.
 
-Changed for test.
+Sample change for setting up git.
